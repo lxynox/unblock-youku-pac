@@ -1,0 +1,8 @@
+{
+  "name": "unblock-youku-pac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lxynox/unblock-youku-pac.git",
+  "author": "lxynox <lxynox@gmail.com>",
+  "license": "MIT"
+}
